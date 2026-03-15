@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<h1>Productivity Report</h1>
+
+<div id="report"></div>
+
+<script>
+
+fetch("http://localhost:3000/data")
+.then(res=>res.json())
+.then(data=>{
+
+let div=document.getElementById("report");
+
+data.forEach(d=>{
+
+div.innerHTML+=`<p>${d.site} - ${d.time}</p>`
+
+})
+
+})
+
+</script>
+
+</body>
+</html>
