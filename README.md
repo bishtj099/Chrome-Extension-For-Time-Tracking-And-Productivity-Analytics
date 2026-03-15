@@ -26,4 +26,3 @@ Running automatically in the background while browsing
 #OUTPUT
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2ca716b9-38a9-4cee-a8ca-513e7c2b4df5" />
 
-<img width="1099" height="596" alt="Image" src="https://github.com/user-attachments/assets/920959b7-cc13-441a-bf5c-be2e7e0d6ca4" />
